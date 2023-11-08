@@ -49,6 +49,7 @@ dev_dependencies:
 
 
   flutter_launcher_icons:
+  solid_lints: ^0.0.15
 flutter_icons:
   image_path: "assets/icons/qa.png"
   android: true
